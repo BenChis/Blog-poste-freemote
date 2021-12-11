@@ -8,4 +8,4 @@ Flex-box
 ## Responsiveness 
 Minimalist
 
-![Photo of layout](./Freemote-Blog-Post_layout)
+![Photo of layout](Freemote-Blog-Post_layout.png)
